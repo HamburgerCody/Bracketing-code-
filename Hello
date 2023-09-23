@@ -1,0 +1,10 @@
+# Bracketing-code-
+The motivation behind this project stems from my use of a note-taking application that employs a clever feature – linking documents together using double brackets and specific keywords. This feature has greatly enhanced my productivity and organization. However, I often find myself forgetting to apply these double brackets when writing my characters' backstories or narrating in-game events.
+
+To address this issue, I embarked on the development of a program that could automate this process. Python, being my primary programming language, served as the foundation for this endeavor. The initial iterations (up to V.33.0) were tailored to my specific computer setup, as I never initially intended to share this project. I apologize for any inconvenience caused by this.
+
+As you review the various versions of my code, you'll notice a significant evolution in its complexity and functionality. Over time, I integrated a debugger that streamlined the development process, resulting in more dynamic code. Additionally, I have expanded my coding knowledge through additional courses, allowing me to explore more advanced techniques.
+
+Ultimately, my goal is to create a program that can function seamlessly on any computer, eliminating the need for hard-coded dependencies. This endeavor may take some time, but I am committed to refining and improving my code until it meets this universal standard.
+
+Thank you for taking an interest in my project, and I appreciate any feedback or assistance you can provide in this endeavor.
